@@ -1,2 +1,3 @@
 # hello-world
-a new repository
+Hi, all!
+I am a student from Nanjing University. I am getting started to use github.
