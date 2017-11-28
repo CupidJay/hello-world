@@ -1,0 +1,2 @@
+this is a file created on my Macbook terminal.
+hope to git commit successfully!
